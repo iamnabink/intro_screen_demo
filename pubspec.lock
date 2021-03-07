@@ -72,11 +72,9 @@ packages:
   flutter_intro_screen:
     dependency: "direct main"
     description:
-      path: "."
-      ref: main
-      resolved-ref: de7cbb47870e22f1f57b9805627132d127ffd1ef
-      url: "git://github.com/iamnabink/flutter_intro_screen"
-    source: git
+      path: "packages/flutter_intro_screen"
+      relative: true
+    source: path
     version: "0.0.1"
   flutter_test:
     dependency: "direct dev"

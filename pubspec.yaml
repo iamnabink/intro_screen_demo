@@ -31,10 +31,10 @@ dependencies:
 
 
   flutter_intro_screen:
-    git:
-      url: git://github.com/iamnabink/flutter_intro_screen
-      ref: main #main for github and master for gitlab
-#    path: packages/flutter_intro_screen  #using package using relative path
+#    git:
+#      url: git://github.com/iamnabink/flutter_intro_screen
+#      ref: main #main for github and master for gitlab
+    path: packages/flutter_intro_screen  #using package, using relative path
 
 
 dev_dependencies:

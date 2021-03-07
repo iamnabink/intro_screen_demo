@@ -1,6 +1,6 @@
 library flutter_intro_screen;
 
-export 'package:flutter_intro_screen/src/introduction_screen.dart'
+export 'package:flutter_intro_screen/src/intro_screen.dart'
     show IntroductionScreen, IntroductionScreenState;
 export 'package:flutter_intro_screen/src/model/page_view_model.dart'
     show PageViewModel;

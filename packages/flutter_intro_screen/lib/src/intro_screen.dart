@@ -1,4 +1,4 @@
-library introduction_screen;
+library intro_screen;
 
 import 'dart:async';
 import 'dart:math';
